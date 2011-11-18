@@ -1,0 +1,10 @@
+\$(document).ready(function () {
+	var $1$ = $$("#$1$").kendoDatePicker({
+		depth: "$2=SELECT(month,year,decade,century)$",
+		format: $3=SELECT(kendo.culture().calendar.patterns.d)$,
+		max: new Date($5$,$6$,$7$),
+		min: new Date($8$,$9$,$10$),
+		startView: "$11=SELECT(month,year,decade,century)$",
+		value: $12=SELECT(null)$
+	});
+});
