@@ -1,0 +1,12 @@
+\$(document).ready(function () {
+	var $1$ = \$("#$1$").kendoAutoComplete({
+		dataSource: $2=SELECT({})$,
+		dataTextField: $3=SELECT(null)$,
+		delay: $4=SELECT(200)$,
+		enable: $5=SELECT(true,false)$,
+		filter: $6=SELECT("startswith")$,
+		height: $7=SELECT(200)$,
+		minLength: $8=SELECT(1)$,
+		suggest: $9=SELECT(false,true)$
+	});
+});
