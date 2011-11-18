@@ -1,0 +1,15 @@
+\$(document).ready(function () {
+	var $1$ = \$("#$1$").kendoComboBox({
+		autoBind: $2=SELECT(true,false)$,
+		dataSource: $3=SELECT({})$,
+		dataTextField: $4=SELECT("text")$,
+		dataValueField: $5=SELECT("value")$,
+		enable: $6=SELECT(true,false)$,
+		filter: $7=SELECT("none")$,
+		height: $8=SELECT(200)$,
+		highlightFirst: $9=SELECT(true,false)$,
+		index: $10=SELECT(-1)$,
+		minLength: $11=SELECT(1)$,
+		suggest: $12=SELECT(false,true)$
+	});
+});
