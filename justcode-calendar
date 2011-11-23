@@ -1,0 +1,11 @@
+\$(document).ready(function () {
+	var $1$ = \$("#$1$").kendoCalendar({
+		value: $2=SELECT(null)$,
+		min: $3$,
+		max: $4$,
+		startView: "$5=SELECT(month,year,decade,century)$",
+		depth: "$6=SELECT(month,year,decade,century)$",
+		footer: $7$,
+		format: $8=SELECT(kendo.culture().calendar.patterns.d)$
+	});
+});
