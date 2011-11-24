@@ -1,0 +1,12 @@
+\$(document).ready(function () {
+	var $1$ = \$("#$1$").kendoDropDownList({
+		enable: $2=SELECT(true,false)$,
+		index: $3=SELECT(0)$,
+		autoBind: $4=SELECT(true,false)$,
+		delay: $5=SELECT(500)$,
+		dataSource: $6$,
+		dataTextField: "$7=SELECT(text)$",
+		dataValueField: "$8=SELECT(value)$",
+		height: $9=SELECT(200)$
+	});
+});
