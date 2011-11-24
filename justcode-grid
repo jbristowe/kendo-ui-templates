@@ -1,0 +1,13 @@
+\$(document).ready(function () {
+	var $1$ = \$("#$1$").kendoGrid({
+		autoBind: $2=SELECT(true,false)$,
+		columns: $3=SELECT([])$,
+		dataSource: $4=SELECT({})$,
+		rowTemplate: $5$,
+		groupable: $6=SELECT(false,true)$,
+		navigatable: $7=SELECT(false,true)$,
+		pageable: $8=SELECT(false,true)$,
+		scrollable: $9=SELECT(true,false)$,
+		selectable: $10=SELECT(undefined)$
+	});
+});
