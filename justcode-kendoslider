@@ -1,0 +1,16 @@
+\$(document).ready(function () {
+	var $1$ = \$("#$1$").kendoSlider({
+		val: $2=SELECT(0)$,
+		tooltip: $3$,
+		enabled: $4=SELECT(true,false)$,
+		min: $5=SELECT(0)$,
+		max: $6=SELECT(20)$,
+		increaseButtonTitle: "$7=SELECT(Increase)$",
+		decreaseButtonTitle: "$8=SELECT(Decrease)$",
+		smallStep: $9=SELECT(1)$,
+		largeStep: $10=SELECT(5)$,
+		orientation: "$11=SELECT(horizontal,vertical)$",
+		showButtons: $12=SELECT(true,false)$,
+		tickPlacement: "$13=SELECT(both,topLeft,bottomRight)$"
+	});
+});

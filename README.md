@@ -9,3 +9,4 @@
 * Grid
 * Menu
 * PanelBar
+* Slider
