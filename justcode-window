@@ -1,0 +1,14 @@
+\$(document).ready(function () {
+	var $1$ = \$("#$1$").kendoWindow({
+		title: $2$,
+		actions: [$3=SELECT('close')$],
+		draggable: $4=SELECT(true,false)$,
+		minHeight: $5=SELECT(50)$,
+		minWidth: $6=SELECT(50)$,
+		visible: $7=SELECT(true,false)$,
+		resizable: $8=SELECT(true,false)$,
+		modal: $9=SELECT(false,true)$,
+		contentUrl: $10$,
+		animation: $11$
+	});
+});
