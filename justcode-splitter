@@ -1,0 +1,6 @@
+\$(document).ready(function () {
+	var $1$ = \$("#$1$").kendoSplitter({
+		panes: $2$,
+		orientation: "$3=SELECT(horizontal,vertical)$"
+	});
+});

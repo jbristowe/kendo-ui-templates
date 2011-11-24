@@ -10,4 +10,5 @@
 * Menu
 * PanelBar
 * Slider
+* Splitter
 * RangeSlider
