@@ -1,0 +1,8 @@
+\$(document).ready(function () {
+	var $1$ = \$("#$1$").kendoMenu({
+		animation: $1$,
+		hoverDelay: $2=SELECT(100)$,
+		openOnClick: $3=SELECT(false,true)$,
+		orientation: "$4=SELECT(horizontal,vertical)$"
+	});
+});
