@@ -8,3 +8,4 @@
 * DropDownList
 * Grid
 * Menu
+* PanelBar

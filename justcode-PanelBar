@@ -1,0 +1,6 @@
+\$(document).ready(function () {
+	var $1$ = \$("#$1$").kendoPanelBar({
+		animation: $2$,
+		expandMode: "$3=SELECT(multiple,single)$"
+	});
+});
