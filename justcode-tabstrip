@@ -1,0 +1,5 @@
+\$(document).ready(function () {
+	var $1$ = \$("#$1$").kendoTabStrip({
+		animation: $2$
+	});
+});

@@ -12,3 +12,4 @@
 * Slider
 * Splitter
 * RangeSlider
+* TabStrip
