@@ -1,0 +1,7 @@
+\$(document).ready(function () {
+	var $1$ = \$("#$1$").kendoTreeView({
+		animation: $2$,
+		dataSource: $3$,
+		dragAndDrop: $4=SELECT(false,true)$
+	});
+});
