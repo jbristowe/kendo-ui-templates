@@ -1,0 +1,8 @@
+\$(document).ready(function () {
+	var $1$ = \$("#$1$").kendoUpload({
+		async: $2$,
+		enabled: $3=SELECT(true,false)$,
+		multiple: $4=SELECT(true,false)$,
+		showFileList: $5=SELECT(true,false)$
+	});
+});

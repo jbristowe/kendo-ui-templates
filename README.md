@@ -14,3 +14,4 @@
 * RangeSlider
 * TabStrip
 * TreeView
+* Upload
