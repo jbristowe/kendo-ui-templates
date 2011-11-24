@@ -1,0 +1,14 @@
+\$(document).ready(function () {
+	var $1$ = \$("#$1$").kendoRangeSlider({
+		selectionStart: $2=SELECT(0)$,
+		selectionEnd: $3=SELECT(10)$,
+		tooltip: $4$,
+		enabled: $5=SELECT(true,false)$,
+		min: $6=SELECT(0)$,
+		max: $7=SELECT(20)$,
+		smallStep: $8=SELECT(1)$,
+		largeStep: $9=SELECT(5)$,
+		orientation: "$10=SELECT(horizontal,vertical)$",
+		tickPlacement: "$11=SELECT(both,topLeft,bottomRight)$"
+	});
+});

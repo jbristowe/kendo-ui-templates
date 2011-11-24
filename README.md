@@ -10,3 +10,4 @@
 * Menu
 * PanelBar
 * Slider
+* RangeSlider
