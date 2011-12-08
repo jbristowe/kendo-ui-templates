@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+var ${1:autoComplete} = \$("#${1:autoComplete}").kendoAutoComplete({
+	dataSource: $2,
+	dataTextField: ${3:null},
+	delay: ${4:200},
+	enable: ${5:true},
+	filter: ${6:"startswith"},
+	height: ${7:200},
+	minLength: ${8:1},
+	suggest: ${9:false}
+});]]></content>
+	<tabTrigger>kwa</tabTrigger>
+	<scope>source.js</scope>
+	<description>Kendo UI Web AutoComplete</description>
+</snippet>
