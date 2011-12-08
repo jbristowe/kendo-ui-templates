@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+var ${1:dataSource} = new kendo.data.DataSource({
+	aggregate: ${2:undefined},
+	data: ${3:[]},
+	filter: ${4:undefined},
+	group: ${5:undefined},
+	page: ${6:undefined},
+	pageSize: ${7:undefined},
+	schema: ${8:undefined},
+	serverAggregates: ${9:undefined},
+	serverFiltering: ${10:false},
+	serverGrouping: ${11:false},
+	serverPaging: ${12:false},
+	serverSorting: ${13:false},
+	sort: ${14:undefined},
+	transport: ${15:undefined}
+});]]></content>
+	<tabTrigger>kwds</tabTrigger>
+	<scope>source.js</scope>
+	<description>Kendo UI DataSource</description>
+</snippet>
