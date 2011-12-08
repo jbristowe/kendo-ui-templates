@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+var ${1:comboBox} = \$("#${1:comboBox}").kendoComboBox({
+	autoBind: ${2:true},
+	dataSource: ${3:kendo.data.dataSource},
+	dataTextField: ${4:"text"},
+	dataValueField: ${5:"value"},
+	delay: ${6:200},
+	enable: ${7:true},
+	filter: ${8:"none"},
+	height: ${9:200},
+	highlightFirst: ${10:true},
+	index: ${11:-1},
+	minLength: ${12:1},
+	suggest: ${13:true}
+});]]></content>
+	<tabTrigger>kwcb</tabTrigger>
+	<scope>source.js</scope>
+	<description>Kendo UI Web ComboBox</description>
+</snippet>
