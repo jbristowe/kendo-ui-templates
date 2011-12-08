@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+var ${1:grid} = \$("#${1:grid}").kendoGrid({
+	autoBind: ${2:false},
+	columns: ${3:[]},
+	dataSource: ${4:kendo.data.dataSource},
+	detailTemplate: ${5:undefined},
+	groupable: ${6:false},
+	navigatable: ${7:false},
+	pageable: ${8:false},
+	rowTemplate: ${9:undefined},
+	scrollable: ${10:true},
+	selectable: ${11:undefined},
+	sortable: ${12:undefined}
+});]]></content>
+	<tabTrigger>kwg</tabTrigger>
+	<scope>source.js</scope>
+	<description>Kendo UI Web Grid</description>
+</snippet>
