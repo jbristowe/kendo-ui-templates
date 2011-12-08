@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+var ${1:dropDownList} = \$("#${1:dropDownList}").kendoDropDownList({
+	autoBind: ${2:true},
+	dataSource: ${3:kendo.data.dataSource},
+	dataTextField: ${4:"text"},
+	dataValueField: ${5:"value"},
+	delay: ${6:500},
+	enable: ${7:true},
+	height: ${8:200},
+	index: ${9:0}
+});]]></content>
+	<tabTrigger>kwddl</tabTrigger>
+	<scope>source.js</scope>
+	<description>Kendo UI Web DropDownList</description>
+</snippet>
